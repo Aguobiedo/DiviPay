@@ -1,0 +1,7 @@
+{
+  "name": "DiviPay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

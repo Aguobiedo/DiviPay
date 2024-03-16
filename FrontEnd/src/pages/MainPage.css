@@ -1,0 +1,47 @@
+
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.map {
+    height: 400px;
+    width: 100%;
+}
+
+.request {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #3d3b3b;
+}
+
+.request button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.request button:hover {
+    background-color: #0056b3;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #8d8989;
+    color: rgb(255, 253, 253);
+    text-align: center;
+    padding: 10px;
+}
+

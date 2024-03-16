@@ -1,0 +1,22 @@
+.login-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #f8f8f8;
+  }
+  
+  .button-login {
+    margin-top: 20px;
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .signup-link {
+    margin-top: 20px;
+    font-size: 0.9rem;
+  }
+  
+  .signup-link a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  

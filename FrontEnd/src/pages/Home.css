@@ -1,0 +1,25 @@
+.app-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #f8f8f8;
+}
+
+.app-description {
+  font-size: 1.2rem;
+  color: #c4bebe;
+}
+
+.app-logo {
+  width: 200px; /* Ajusta el tamaño según tus necesidades */
+}
+
+.button-login {
+  margin-bottom: 10px;
+  background-color: #007bff; /* Color primario para el botón de iniciar sesión */
+  color: #fff;
+}
+
+.button-signup {
+  background-color: #6c757d; /* Color secundario para el botón de registrarse */
+  color: #fff;
+}
